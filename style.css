@@ -1,0 +1,93 @@
+*{
+    text-align: center;
+    background-color: whitesmoke;
+    
+
+}
+img {
+    width: 100px;
+    margin-top: 2cm;
+}
+h2{
+    font-size: xx-large;
+    font-family: sans-serif ;
+    font-weight: bolder;
+    margin-bottom: 1px;
+    
+}
+span{
+    font-family: sans-serif;
+    color:  rgb(111, 26, 190);
+    font-weight: normal;
+}
+p{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    font-family: sans-serif;
+    font-weight: normal;
+}
+input{
+  
+    text-align: left;
+    padding: 7px;
+    color: grey;
+    border-color: rgba(128, 128, 128, 0.356);
+    background-color: white;
+    border-style: solid;
+}
+
+button{
+    width: 38%;
+    padding: 10px;
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bold;
+    background-color:  rgba(53, 24, 219, 0.842);
+    color: white;
+    border-radius: 5px;
+    border-color: rgba(53, 24, 219, 0.842);
+}
+
+#username{
+    width: 38%;
+    border-top-left-radius: 5px ;
+    border-top-right-radius: 5px;
+    border-bottom: white;
+    
+    
+   
+}
+
+#password{
+    width: 38%;
+    border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+         
+    
+}
+
+
+    
+    
+
+
+.check{
+    padding: 25px;
+}
+
+#remember{
+    position: fixed;
+    left: 420px;
+    
+}
+ 
+label{
+    position: absolute;
+    left: 440px;
+    font-family: sans-serif;
+}
+#span1{
+    position: relative;
+    left: 180px;
+
+}
